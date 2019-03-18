@@ -300,9 +300,14 @@ input[type=submit]:hover {
   padding: 20px;
 }
 
-
+.mapouter{
+	text-align: center;
+}
 	
 	
+#ubicacion{
+	
+}
 
 
 .copyright{ text-align: center; padding: 30px 0; background: #28023D; }
